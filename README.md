@@ -2,7 +2,7 @@
 Newest launch of AzureStrap/ Download now
 ## What we offer :
 
-- Pure performance, Clourd sync
+- Pure performance, Cloud sync
 
 - Allows you to use the allowlist fflags
 
